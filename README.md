@@ -1,4 +1,2 @@
 # file
-test
-test
-test
+aaa
